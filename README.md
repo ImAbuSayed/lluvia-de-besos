@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lluvia-de-besos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Lluvia de besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lluvia-de-besos/) |
+| **Get License** | [Request Licensing for Lluvia de besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lluvia-de-besos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> We riding through the city with the top down low
+> Your body language telling me where we should go
+> I feel the tension rising when the neon glows
+> Just let me be the rhythm that your body knows
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
