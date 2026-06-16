@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lluvia-de-besos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Lluvia de besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lluvia-de-besos/) |
+| **Get License** | [Secure Licensing Rights for Lluvia de besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lluvia-de-besos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ee222e18432668a22b6d73f233177110775e01b956f6f656eecd20dc94dc804f` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

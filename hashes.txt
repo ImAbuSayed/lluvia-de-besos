@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Lluvia de besos
+
+This log tracks the cryptographic history and versioning for the song **Lluvia de besos** (lluvia-de-besos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T15:33:49.384911 | `v1` | `ee222e18432668a22b6d73f233177110775e01b956f6f656eecd20dc94dc804f` | `388dcf48058b24942b37d52e7d16828e569f708eec292d1821a3bcfeff59bc1b` | `2026-06-16_lluvia-de-besos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
